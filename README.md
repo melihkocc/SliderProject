@@ -2,7 +2,7 @@
  Image slider
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/SliderProject/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
